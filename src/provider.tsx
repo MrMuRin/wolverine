@@ -1,4 +1,4 @@
-import { NextUIProvider } from "@nextui-org/system";
+import { NextUIProvider } from "@nextui-org/react";
 import { useNavigate } from "react-router-dom";
 import React from "react";
 
